@@ -1,0 +1,31 @@
+.details {
+   height: 100vh;
+    padding: 50px 50px;
+}
+
+.link {
+    text-decoration: none;
+
+}
+
+.backbtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 35px;
+    color: black;
+}
+.detailssection{
+    margin-top: 50px;
+    display: flex;
+}
+.countrydetails{
+   
+    margin-left: 100px;
+    display: flex;
+    column-gap: 100px;
+}
+.secondsection{
+    margin-top:70px;
+}
